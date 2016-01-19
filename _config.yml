@@ -1,0 +1,14 @@
+layout_spectrum: 0.1989247
+typography_spectrum: 0.4605735
+color:
+  saturation: 0.4604269
+  lightness: 0.5569682
+  brandStrength: 0.7616192
+  rhythmicContrast: 0.3736766
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Steve Light
