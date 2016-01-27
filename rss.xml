@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Steve Light]]></title>
         <description><![CDATA[Steve Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 11:51:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 12:07:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[| Bespoke installations from Wiltshire]]></title>
+            <description><![CDATA[<article><h1>&vert; Bespoke installations from Wiltshire</h1></article>]]></description>
+            <link>http://creativelyinstalled.co.uk/</link>
+            <guid isPermaLink="false">93b66f54-acf0-46e9-b881-f646c5d9283a</guid>
+            <pubDate>Wed, 27 Jan 2016 12:07:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3punlimited.com]]></title>
             <description><![CDATA[<h1>3punlimited.com</h1>]]></description>
-            <link>undefined3punlimitedcom/index.html</link>
+            <link>https://thegrid.ai/steve-light/3punlimitedcom/index.html</link>
             <guid isPermaLink="false">1529eca5-56d1-4d9d-8f54-5a81c1347501</guid>
             <pubDate>Wed, 27 Jan 2016 11:51:50 GMT</pubDate>
         </item>
