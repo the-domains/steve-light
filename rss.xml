@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steve Light]]></title>
-        <description><![CDATA[Steve Light]]></description>
+        <title><![CDATA[Steve Light - Wordpress Developer]]></title>
+        <description><![CDATA[Steve Light - Wordpress Developer]]></description>
         <link>https://thegrid.ai/steve-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 12:10:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steve-light/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[D-Locks | London Emergency Locksmiths | 24 Hour Locksmith Surrey]]></title>
@@ -53,13 +53,6 @@
             <description><![CDATA[<article><h1>attitude and behaviour change</h1><p>Do you want to improve efficiency, effectiveness and the overall performance of your business? Is your team engaged in the business - creative, innovative and determined to succeed? How much behavioural waste do you have? What could you do with an extra 1 hour a day?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a093616563a38a372be92aba2a9d899111eebea.jpg"></article>]]></description>
             <link>http://www.mindfitltd.com/</link>
             <guid isPermaLink="false">e674fd16-e880-4ae8-8832-3aaffba70c08</guid>
-            <pubDate>Wed, 27 Jan 2016 12:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[| Bespoke installations from Wiltshire]]></title>
-            <description><![CDATA[<article><h1>&vert; Bespoke installations from Wiltshire</h1></article>]]></description>
-            <link>http://creativelyinstalled.co.uk/</link>
-            <guid isPermaLink="false">93b66f54-acf0-46e9-b881-f646c5d9283a</guid>
             <pubDate>Wed, 27 Jan 2016 12:07:42 GMT</pubDate>
         </item>
     </channel>
