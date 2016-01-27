@@ -1,6 +1,6 @@
 name: Steve Light
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.31311
 typography_spectrum: 0.4605735
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FBFBF9'
-    - '#D8B3A3'
-    - '#150C15'
-    - '#A48754'
-    - '#654231'
+    - '#4285f4'
+    - '#ea4335'
+    - '#fbbc05'
+    - '#0000ff'
+    - '#00ffff'
   brandStrength: 0.7616192
   lightness: 0.5625
   saturation: 0.4604269
