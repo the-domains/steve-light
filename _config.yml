@@ -1,8 +1,5 @@
-layout_spectrum: 0.1989247
-typography_spectrum: 0.4605735
 color:
   saturation: 0.4604269
-  lightness: 0.5569682
   brandStrength: 0.7616192
   rhythmicContrast: 0.3736766
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  lightness: 0.5569682
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.1989247
+typography_spectrum: 0.4605735
 name: Steve Light
