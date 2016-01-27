@@ -1,3 +1,7 @@
+name: Steve Light
+favicon: null
+layout_spectrum: 0.1989247
+typography_spectrum: 0.4605735
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4605735
+title: Steve Light - Wordpress Developer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4604269
-  brandStrength: 0.7616192
-  lightness: 0.5569682
   brandColors:
     - '#FBFBF9'
     - '#D8B3A3'
     - '#150C15'
     - '#A48754'
     - '#654231'
+  brandStrength: 0.7616192
+  lightness: 0.5569682
+  saturation: 0.4604269
   rhythmicContrast: 0.3736766
-layout_spectrum: 0.1989247
-name: Steve Light
+purpose: []
