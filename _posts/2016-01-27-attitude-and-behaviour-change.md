@@ -17,8 +17,8 @@ keywords:
   - attitudes
   - innovation
 description: 'Do you want to improve efficiency, effectiveness and the overall performance of your business? Is your team engaged in the business - creative, innovative and determined to succeed? How much behavioural waste do you have? What could you do with an extra 1 hour a day?'
-datePublished: '2016-01-27T12:27:12.372Z'
-dateModified: '2016-01-27T12:27:05.744Z'
+datePublished: '2016-01-27T12:28:15.375Z'
+dateModified: '2016-01-27T12:28:12.985Z'
 author: []
 related: []
 app_links: []
