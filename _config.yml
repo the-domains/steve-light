@@ -1,14 +1,3 @@
-color:
-  saturation: 0.4604269
-  brandStrength: 0.7616192
-  rhythmicContrast: 0.3736766
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.5569682
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.1989247
 typography_spectrum: 0.4605735
+color:
+  saturation: 0.4604269
+  brandStrength: 0.7616192
+  lightness: 0.5569682
+  brandColors:
+    - '#FBFBF9'
+    - '#D8B3A3'
+    - '#150C15'
+    - '#A48754'
+    - '#654231'
+  rhythmicContrast: 0.3736766
+layout_spectrum: 0.1989247
 name: Steve Light
